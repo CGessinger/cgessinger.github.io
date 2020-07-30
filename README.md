@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# About Me 
+All my life I wanted to learn how to code, so one day in the summer holidays I thought to my self, if others can do it I can do it too! I started watching tons of Java tutorials and writing "hello world" applications. That was 4 years ago. Since then I tried a lot, ranging from responsive web applications with Javascript, CSS and HTML to Unity games in c# to Selenium bots with Python.
 
-You can use the [editor on GitHub](https://github.com/CGessinger/cgessinger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Besides programming, I enjoy doing sports, tracking and following the stock market and always learning new things. This page will focus on the documentation of my projects published on GitHub however.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Minecraft Modding Projects
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CGessinger/cgessinger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Services 
