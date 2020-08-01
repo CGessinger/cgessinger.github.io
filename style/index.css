@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    color: #231F20;
+    text-align: center;
+    padding: 4rem 6rem;
+    line-height: 1.5;
+    background-image: linear-gradient(120deg, #7EBDC2, #F3DFA2);
+    width: 100%;
+}
+
+#name{
+    font-size: 3.25rem;
+    margin: 0rem;
+}
+
+#description{
+    margin-bottom: 2rem;
+    opacity: 0.7;
+    font-weight: normal;
+}
+
+.link_btn{
+    color:#231F20;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #231F20;
+    border-radius: 0.3rem;
+    padding: 0.75rem 1rem;
+}
+
+.link_btn:hover{
+    color: #231F20;
+}
+
+body{
+    background-color: white;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0px;
+}
