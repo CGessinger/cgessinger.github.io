@@ -147,7 +147,7 @@ main, footer{
     padding: 2rem 6rem;
 }
 
-main h1, main h2 {
+main h1, main h2, main h3{
     color: var(--heading-color);
     font-weight: normal;
 }
